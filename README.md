@@ -63,11 +63,9 @@ Due to confidentiality:
 
 ## 📌 Documentation Includes:
 
-- System architecture and flow
+- System architecture and flow(in docs/Architecture.md)
 - API endpoint descriptions (in `docs/API.md`)
-- User role matrix and permissions
-- Sample JSON payloads for testing
-- Screenshots (where permitted)
+- Screenrecording
 
 ---
 
