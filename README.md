@@ -23,13 +23,17 @@
 
 ## 🎯 Key Features
 
-- 🔐 **Secure Login System** with JWT
-- 🧑‍💼 **Role-based dashboards** (Admin,Learner)
-- 📆 **Schedule & manage training sessions**
-- 📎 **Upload resources** (videos)
-- ✅ **Track progress and completion**
-- 📝 **Feedback & performance evaluation**
-- 🧾 **MongoDB-based data storage**
+- 🔐 **Secure Login System** with JWT  
+- 🧑‍💼 **Role-based dashboards** (Admin, Learner)  
+- 📆 **Schedule & manage training sessions**  
+- 📎 **Upload resources** (videos)  
+- ✅ **Track progress and completion**  
+- 📝 **Feedback & performance evaluation**  
+- 🧾 **MongoDB-based data storage**  
+- 🌐 **Multi-language support**  
+- 🎨 **Theme color change**
+
+
 
 ---
 
@@ -71,7 +75,6 @@ Due to confidentiality:
 
 - Add analytics dashboard for Admins
 - Integration with external LMS
-- Multi-language support
 - Email/SMS reminders
 - Telegram intregation
 
