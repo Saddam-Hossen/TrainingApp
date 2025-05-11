@@ -63,7 +63,7 @@ Due to confidentiality:
 
 ## 📌 Documentation Includes:
 
-- System architecture and flow(in docs/Architecture.md)
+- System architecture and flow(in `docs/Architecture.md`)
 - API endpoint descriptions (in `docs/API.md`)
 - Screenrecording
 
