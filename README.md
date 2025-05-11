@@ -1,5 +1,3 @@
-# TrainingApp
-
 # 📚 TrainingApp – Corporate Training Management Platform
 
 > ⚠️ This repository contains **documentation only**. The source code is private and cannot be shared due to company confidentiality.
