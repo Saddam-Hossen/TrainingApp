@@ -65,12 +65,12 @@ Due to confidentiality:
 
 ## 📌 Documentation Includes:
 
-- System architecture and flow(in `docs/Architecture.md`)
-- API endpoint descriptions (in `docs/API.md`)
-- Website:https://trainingapp.deepseahost.com
-- Screenrecording
-- https://youtu.be/XbXJCtzc0do
----
+- System architecture and flow (in [`docs/Architecture.md`](docs/Architecture.md))
+- API endpoint descriptions (in [`docs/API.md`](docs/API.md))
+- 🌐 Website: [https://trainingapp.deepseahost.com](https://trainingapp.deepseahost.com)
+- 📽️ Screen recording:  
+  [![Watch Video](https://img.youtube.com/vi/XbXJCtzc0do/0.jpg)](https://youtu.be/XbXJCtzc0do)
+
 
 ## 📈 Future Improvements
 
