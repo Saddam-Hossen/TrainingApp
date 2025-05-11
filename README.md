@@ -8,7 +8,7 @@
 
 ## 📌 Overview
 
-**TrainingApp** is a secure, scalable, full-stack web platform designed to manage corporate training programs. It supports administrators, trainers, and learners to collaboratively plan, track, and evaluate training sessions.
+**TrainingApp** is a secure, scalable, full-stack web platform designed to manage corporate training programs. It supports administrators and learners to collaboratively plan, track, and evaluate training sessions.
 
 ---
 
@@ -20,16 +20,15 @@
 | Backend    | Spring Boot (REST APIs), Java |
 | Database   | MongoDB (NoSQL)        |
 | Auth       | JWT (JSON Web Tokens)  |
-| Tools      | Postman, Git, VS Code, IntelliJ |
-
+| Tools      | Postman, Git, VS Code, IntelliJ, Docker, GitHub Actions (CI/CD), AWS
 ---
 
 ## 🎯 Key Features
 
 - 🔐 **Secure Login System** with JWT
-- 🧑‍💼 **Role-based dashboards** (Admin, Trainer, Learner)
+- 🧑‍💼 **Role-based dashboards** (Admin,Learner)
 - 📆 **Schedule & manage training sessions**
-- 📎 **Upload resources** (PDFs, videos, slides)
+- 📎 **Upload resources** (videos)
 - ✅ **Track progress and completion**
 - 📝 **Feedback & performance evaluation**
 - 🧾 **MongoDB-based data storage**
@@ -55,7 +54,10 @@ Spring Boot (REST API)
 Due to confidentiality:
 - The **source code is not public**
 - This repo only includes **technical documentation**, not the implementation
-- Deployment is done internally via [Docker/Kubernetes/Cloud] (depending on your infra)
+- The system is containerized using **Docker**
+- CI/CD pipelines are managed via **GitHub Actions**
+- Application is **deployed on AWS infrastructure**
+- Deployment uses **Docker-based workflows**, optionally integrated with **Kubernetes**
 
 ---
 
@@ -75,6 +77,7 @@ Due to confidentiality:
 - Integration with external LMS
 - Multi-language support
 - Email/SMS reminders
+- Telegram intregation
 
 ---
 
@@ -82,14 +85,14 @@ Due to confidentiality:
 
 For technical inquiries or collaborations, please contact:
 
-- 👨‍💼 **Your Name**
-- 💼 **Your Position**  
-- 🏢 **Company Name**  
-- 📧 your.email@company.com  
-- 🌐 [LinkedIn Profile](https://linkedin.com/in/yourname)
+- 👨‍💼  Saddam Hossen
+- 💼  Senior Software Engineer 
+- 🏢  Earthface  
+- 📧  01957987631a@gmail.com  
+- 🌐 [LinkedIn Profile](https://linkedin.com/in/saddam-hossen-619a81174)
 
 ---
 
 ## 🛡️ License
 
-This project is proprietary and owned by **[Company Name]**. All rights reserved.
+This project is proprietary and owned by Earthface. All rights reserved.
