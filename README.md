@@ -67,8 +67,9 @@ Due to confidentiality:
 
 - System architecture and flow(in `docs/Architecture.md`)
 - API endpoint descriptions (in `docs/API.md`)
+- Website:https://trainingapp.deepseahost.com
 - Screenrecording
-
+  https://youtu.be/XbXJCtzc0do
 ---
 
 ## 📈 Future Improvements
